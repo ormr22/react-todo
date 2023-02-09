@@ -1,0 +1,34 @@
+.toDoContainer {
+  margin-left: 22px;
+  background-color: rgb(49, 122, 122);
+  width: 400px;
+  padding: 10px;
+}
+
+.toDoListInput {
+  height: 3rem;
+  font-size: larger;
+  border-radius: 0.72rem;
+  min-width: 17%;
+}
+
+.addToDoBtn {
+  height: 3rem;
+  margin-left: 1.2rem;
+  border-radius: 0.72rem;
+  cursor: pointer;
+}
+
+.completed {
+  margin-left: 10px;
+  height: 2rem;
+}
+
+.deleted {
+  margin-left: 10px;
+  height: 2rem;
+}
+
+.completedTask {
+  background-color: green;
+}
